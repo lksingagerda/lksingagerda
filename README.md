@@ -1,5 +1,5 @@
 - 👋 Hi, call me Tin.
-- 👀 I’m interested in **Pharmacology**, **System Biology**, **Immunology**, and **Bioinformatics**
+- 👀 I’m interested in **Pharmacology**, **Immunology**, **System Biology**, and **Bioinformatics**
 - 🌱 I’m currently learning basic, so...
 
 <!---
