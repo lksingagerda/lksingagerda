@@ -1,8 +1,8 @@
 - 👋 Hi
 - 👀 I’m interested in - **Pharmacology**, **System Biology**, **Immunology**, and **Bioinformatics**
 - 🌱 I’m currently learning - 😶‍🌫️ ... basic coding
-- 💞️ I’m looking to collaborate on - 🧐 ... still learning
-- 📫 How to reach me - 😃 ... everywhere
+- 💞️ I’m looking to collaborate on - 😃
+- 📫 How to reach me - 😃
 
 <!---
 lksingagerda/lksingagerda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
