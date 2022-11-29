@@ -1,6 +1,6 @@
 - 👋 Hi, I’m - @lksingagerda
 - 👀 I’m interested in - **Pharmacology**, **System Biology**, **Immunology**, and **Bioinformatics**
-- 🌱 I’m currently learning - Basic Coding
+- 🌱 I’m currently learning - 😶‍🌫️ (very basic coding)
 - 💞️ I’m looking to collaborate on - 🧐
 - 📫 How to reach me - 😃
 
