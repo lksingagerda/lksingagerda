@@ -1,4 +1,4 @@
-- 👋 Hi, I’m - @lksingagerda
+- 👋 Hi
 - 👀 I’m interested in - **Pharmacology**, **System Biology**, **Immunology**, and **Bioinformatics**
 - 🌱 I’m currently learning - 😶‍🌫️ ... very basic coding
 - 💞️ I’m looking to collaborate on - 🧐 ... still learning
