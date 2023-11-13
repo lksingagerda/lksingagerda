@@ -1,5 +1,5 @@
 - 👋 Hi, call me Tin. | Saibatin | ID/EN
-- 👀 I’m interested in **Pharmacology**, **Immunology**, **System Biology**, **Bioinformatics**, and **Biological Engineering**
+- 👀 I’m interested in **Pharmacology**, **Immunology**, **System Biology**, **Bioinformatics**, and **Computational Biology**
 - 🌱 I’m currently learning basic, so...
 
 <!---
