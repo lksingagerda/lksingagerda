@@ -1,4 +1,4 @@
-- 👋 Hi, I am one of the Saibatin.
+- Saibatin.
 - **Pharmacology** and **Immunology**.
 - currently learning basic, so ....
 
