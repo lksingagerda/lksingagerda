@@ -1,4 +1,4 @@
-Hi 👋! I'm currently learning basic, so ....
+Hi 👋!
 
 <!---
 lksingagerda/lksingagerda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
